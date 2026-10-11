@@ -1,0 +1,4 @@
+node_modules/
+dist/
+*.pem
+tests/e2e/screenshots/
