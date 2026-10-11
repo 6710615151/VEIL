@@ -3,6 +3,8 @@
 The operator interface for the CN360 remote-presence robot.
 *You don't control the robot. You become the robot.*
 
+**Live demo:** https://veil-rho-six.vercel.app (no robot attached — the link shows *Robot offline*, the 360° preview is simulated)
+
 It runs in a desktop browser (mouse and keyboard, 360° view) and in PICO Browser (WebXR immersive VR). The build output is plain static files that the Raspberry Pi serves.
 
 ## Quick start
